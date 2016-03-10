@@ -1,2 +1,2 @@
-##Data Analytics Code Snippets for Future Reference (R)
+##R Data Analytics Code Snippets for Future Reference
 ###Author: Bejan Sadeghian
